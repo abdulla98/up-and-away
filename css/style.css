@@ -5,6 +5,11 @@
 }
 body {
   background-color: #ced6e0;
+  font-family: 'Titillium Web', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: bolder;
 }
 li {
   padding:10px;
@@ -24,17 +29,23 @@ footer {
 
 .content {
   padding:3% 15% 5%;
-
-  
 }
+
 
 .slider-title {
-  font-size: 56pt;
+  font-size: 60pt;
 }
+
+.slider-text {
+  font-size:20pt;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
 
 .nav-item {
   font-size:13pt;
   color:white!important;
+  font-family: 'Dosis', sans-serif;
 }
 
 .nav-link {
@@ -134,9 +145,21 @@ footer {
   display: none;
 }
 
+@media (max-width:1024px) {
+  .carousel-item {
+    height:500px;
+  }
+}
+
 @media (max-width:425px) {
   .slider-title {
     font-size:30pt;
+  }
+  .slider-text {
+    font-size:12pt;
+  }
+  .carousel-item {
+    height:300px;
   }
 }
 
