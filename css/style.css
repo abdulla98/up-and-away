@@ -1,0 +1,174 @@
+/* tag selectors */
+* {
+  margin:0;
+  padding:0;
+}
+body {
+  background-color: #ced6e0;
+}
+li {
+  padding:10px;
+  font-size:14pt;
+}
+
+p {
+  margin-left:20px;
+}
+
+footer {
+  background-color:#2f3542;
+  color:white;
+}
+/* Class selectors */
+
+
+.content {
+  padding:3% 15% 5%;
+
+  
+}
+
+.slider-title {
+  font-size: 56pt;
+}
+
+.nav-item {
+  font-size:13pt;
+  color:white!important;
+}
+
+.nav-link {
+  color:white;
+}
+
+.navbar {
+  padding:0.2% 15% 0.2%;
+  background-color:#2f3542;
+}
+
+.caption {
+  font-size:60pt;
+  padding:10px;
+  letter-spacing: 15px;
+}
+
+.under-caption {
+  font-size:20pt;
+  letter-spacing: 3px;
+}
+
+.heading {
+  margin-bottom:0px;
+}
+
+.skopje {
+  margin-top:20px;
+}
+/* Map */
+.map-container-section {
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.map-container-section iframe {
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+.carousel-item {
+  height: 80vh;
+  background: no-repeat centerS;
+ 
+}
+
+.macedonia-famous {
+  background-color:white;
+}
+
+.content h4,h6 {
+  margin-left:20px;
+}
+
+.content p {
+  margin-left: 40px;
+}
+
+.span4 img {
+  margin-right: 10px;
+}
+.span4 .img-left {
+  float: left;
+}
+.span4 .img-right {
+  float: right;
+}
+
+
+
+
+#list ul li {
+  font-size: 14pt;
+  margin-left:50px;
+  padding:0;
+}
+/*My header*/
+#my-navbar {
+  height:100px;
+  background-color: grey;
+}
+
+/* ID selectors */
+ /* #header {
+  background-image: url('../photos/10.jpg');
+  height: 900px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+} */
+
+#more, #more1, #more2, #more3, #more4, #more5, #more6, #more7, #more8, #more9  {
+  display: none;
+}
+
+@media (max-width:425px) {
+  .slider-title {
+    font-size:30pt;
+  }
+}
+
+ /* hr {
+  border-top: 1px solid #007bff;
+  width:70%;
+} */
+
+a {color: #000;}
+
+
+.card{
+  background-color: #FFFFFF;
+  padding:0;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius:4px;
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+}
+
+
+.card:hover{
+  box-shadow: 0 16px 24px 2px rgba(0,0,0,0.14), 0 6px 30px 5px rgba(0,0,0,0.12), 0 8px 10px -5px rgba(0,0,0,0.3);
+  color:black;
+}
+
+address{
+margin-bottom: 0px;
+}
+
+#author a{
+color: #fff;
+text-decoration: none;
+  
+}

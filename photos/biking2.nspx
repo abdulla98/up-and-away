@@ -1,0 +1,424 @@
+
+<!DOCTYPE html>
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head><meta charset="utf-8" /><meta name="viewport" content="width=device-width" /><link rel="icon" href="favicon.ico" type="image/x-icon" /><link rel="stylesheet" href="css/foundation.css" /><link href="css/main.css?v=7" rel="stylesheet" type="text/css" media="screen" />
+    <script src="js/jquery-1.8.3.min.js"></script>
+    <script src="js/modernizr.foundation.js"></script>
+    <script src="js/jquery.cookies.2.2.0.min.js" type="text/javascript"></script>
+
+<!-- KISSmetrics tracking snippet -->
+<script type="text/javascript">var _kmq = _kmq || [];
+var _kmk = _kmk || 'a0d6a505a55f9312688069403f35dd38436910e0';
+function _kms(u){
+  setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0],
+    s = d.createElement('script');
+    s.type = 'text/javascript'; s.async = true; s.src = u;
+    f.parentNode.insertBefore(s, f);
+  }, 1);
+}
+_kms('//i.kissmetrics.com/i.js');
+_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+
+		<!-- CSS & LESS & ANGULAR References -->
+	
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/less.js/3.0.0/less.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-block-ui/0.2.2/angular-block-ui.min.css" /><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/angular-ui-carousel@0.1.10/dist/ui-carousel.min.css" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.6/angular.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.5.0/ui-bootstrap-tpls.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.6.9/angular-sanitize.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/angular-ui-carousel@0.1.10/dist/ui-carousel.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.6/angular-cookies.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-block-ui/0.2.2/angular-block-ui.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/12.2.13/ng-file-upload.min.js"></script>
+   
+  <script src="app/app.js"></script>
+<script src="app/filters/exploring-macedonia-filters.js"></script>
+<script src="app/services/exploring-macedonia-service.js"></script>
+<script src="app/directives/exploring-macedonia-directives.js"></script>
+<script src="app/shared/services.js"></script>
+<script src="app/shared/utils.js"></script>
+<script src="app/shared/enum.js"></script>
+<script src="app/controllers/error-handler-controller.js"></script>
+  
+
+
+
+<meta name="GCD" content="YTk3ODQ3ZWZhN2I4NzZmMzBkNTEwYjJlaebf80adfa1949958c9648f2c0d310a9" /><meta name="generator" content="Google Web Designer 1.6.1.0620" /><meta data-template-name="gwd-AdWords_Dynamic_Remarketing_BlankSlate" /><meta name="template" content="Banner 2.2.0" /><meta name="environment" content="gwd-adwords" />
+  <style data-gwd-node="true">body{line-height:1.3}.box-shadow{-webkit-box-shadow:1px 1px 1px rgba(0,0,0,0.5);-moz-box-shadow:1px 1px 1px rgba(0,0,0,0.5);box-shadow:1px 1px 1px rgba(0,0,0,0.5)}.text-shadow{text-shadow:0 1px 1px rgba(0,0,0,0.5)}.transition-all{-webkit-transition:all, 0.3s, ease;transition:all, 0.3s, ease}</style>
+  <style data-gwd-node="true">body{cursor:pointer;-webkit-font-smoothing:antialiased;font-smoothing:antialiased}gwd-swipegallery>gwd-gesture{display:none}gwd-carouselgallery>gwd-gesture{display:none}.v-center{position:relative !important;top:49% !important;-ms-transform:translateY(-50%) !important;-webkit-transform:translateY(-50%) !important;transform:translateY(-50%) !important}.h-center{left:50% !important;position:relative !important;-ms-transform:translateX(-50%) !important;-webkit-transform:translateX(-50%) !important;transform:translateX(-50%) !important}.abs-center{position:relative !important;left:50% !important;top:49% !important;-ms-transform:translate(-50%, -50%) !important;-webkit-transform:translate(-50%, -50%) !important;transform:translate(-50%, -50%) !important}.mouse-disable{pointer-events:none}.hide{opacity:0;visibility:hidden}</style>
+  <style data-exports-type="gwd-page" data-gwd-node="true">.gwd-inactive{visibility:hidden}</style>
+  <style data-exports-type="gwd-pagedeck" data-gwd-node="true">.gwd-pagedeck{position:relative}.gwd-pagedeck>.gwd-page.transparent{opacity:0}.gwd-pagedeck>.gwd-page{position:absolute;top:0;left:0;-webkit-transition-property:-webkit-transform,opacity;-moz-transition-property:transform,opacity;transition-property:transform,opacity}.gwd-pagedeck>.gwd-page.linear{transition-timing-function:linear}.gwd-pagedeck>.gwd-page.ease-in{transition-timing-function:ease-in}.gwd-pagedeck>.gwd-page.ease-out{transition-timing-function:ease-out}.gwd-pagedeck>.gwd-page.ease{transition-timing-function:ease}.gwd-pagedeck>.gwd-page.ease-in-out{transition-timing-function:ease-in-out}</style>
+  <style data-exports-type="gwd-doubleclick" data-gwd-node="true">div[is=gwd-page].fs,div[is=gwd-page].fs>div.gwd-page-content{width:100%;height:100%;border:none}</style>
+  <style data-exports-type="gwd-image" data-gwd-node="true">img[is=gwd-image].scaled-proportionally{background-repeat:no-repeat;background-position:center}</style>
+  <style data-exports-type="gwd-taparea" data-gwd-node="true">gwd-taparea{display:block;cursor:pointer;background-color:rgba(0,0,0,0);-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}</style>
+  <style type="text/css" id="gwd-lightbox-style">.gwd-lightbox{overflow:hidden}</style>
+  <style type="text/css">html,body{width:100%;height:100%;margin:0px;cursor:pointer}.gwd-page-container{position:relative;width:100%;height:100px;margin-left:30%;}.gwd-page-content{transform:matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);-webkit-transform:matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);-moz-transform:matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);perspective:1400px;-webkit-perspective:1400px;-moz-perspective:1400px;transform-style:preserve-3d;-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d;position:absolute;background-color:transparent}.gwd-page-wrapper{position:absolute;transform:translateZ(0);-webkit-transform:translateZ(0);-moz-transform:translateZ(0);background-color:#fff}.gwd-page-size{width:728px;height:90px}.gwd-img-1hbf{position:absolute;left:83px;top:29px;opacity:0;transform-style:preserve-3d;-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d;transform:translate3d(102px, 0, 0);-webkit-transform:translate3d(102px, 0, 0);-moz-transform:translate3d(102px, 0, 0)}.gwd-img-kdgf{position:absolute;left:131px;top:29px;transform-style:preserve-3d;-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d;opacity:0;transform:translate3d(400px, 0, 0);-webkit-transform:translate3d(400px, 0, 0);-moz-transform:translate3d(400px, 0, 0)}.gwd-img-v99q{position:absolute;top:0px;left:638px;width:90px;height:90px;transform-origin:45px 45px 0px;-webkit-transform-origin:45px 45px 0px;-moz-transform-origin:45px 45px 0px;transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);opacity:0}@keyframes gwd-gen-u6m4gwdanimation_gwd-keyframes{0%{transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}7.14%{transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}95.71%{transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-u6m4gwdanimation_gwd-keyframes{0%{-webkit-transform:translate3d(0, 0, 0);opacity:0;-webkit-animation-timing-function:linear}7.14%{-webkit-transform:translate3d(0, 0, 0);opacity:1;-webkit-animation-timing-function:linear}95.71%{-webkit-transform:translate3d(0, 0, 0);opacity:1;-webkit-animation-timing-function:linear}100%{-webkit-transform:translate3d(0, 0, 0);opacity:0;-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-u6m4gwdanimation_gwd-keyframes{0%{-moz-transform:translate3d(0, 0, 0);opacity:0;-moz-animation-timing-function:linear}7.14%{-moz-transform:translate3d(0, 0, 0);opacity:1;-moz-animation-timing-function:linear}95.71%{-moz-transform:translate3d(0, 0, 0);opacity:1;-moz-animation-timing-function:linear}100%{-moz-transform:translate3d(0, 0, 0);opacity:0;-moz-animation-timing-function:linear}}#page1.gwd-play-animation .gwd-gen-u6m4gwdanimation{animation:gwd-gen-u6m4gwdanimation_gwd-keyframes 7s linear 2.5s 1 normal forwards;-webkit-animation:gwd-gen-u6m4gwdanimation_gwd-keyframes 7s linear 2.5s 1 normal forwards;-moz-animation:gwd-gen-u6m4gwdanimation_gwd-keyframes 7s linear 2.5s 1 normal forwards}@keyframes gwd-gen-1onogwdanimation_gwd-keyframes{0%{opacity:0;transform:translate3d(102px, 0, 0);-webkit-transform:translate3d(102px, 0, 0);-moz-transform:translate3d(102px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}20%{opacity:1;transform:translate3d(102px, 0, 0);-webkit-transform:translate3d(102px, 0, 0);-moz-transform:translate3d(102px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}88%{opacity:1;transform:translate3d(102px, 0, 0);-webkit-transform:translate3d(102px, 0, 0);-moz-transform:translate3d(102px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{opacity:0;transform:translate3d(102px, 0, 0);-webkit-transform:translate3d(102px, 0, 0);-moz-transform:translate3d(102px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-1onogwdanimation_gwd-keyframes{0%{opacity:0;-webkit-transform:translate3d(102px, 0, 0);-webkit-animation-timing-function:linear}20%{opacity:1;-webkit-transform:translate3d(102px, 0, 0);-webkit-animation-timing-function:linear}88%{opacity:1;-webkit-transform:translate3d(102px, 0, 0);-webkit-animation-timing-function:linear}100%{opacity:0;-webkit-transform:translate3d(102px, 0, 0);-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-1onogwdanimation_gwd-keyframes{0%{opacity:0;-moz-transform:translate3d(102px, 0, 0);-moz-animation-timing-function:linear}20%{opacity:1;-moz-transform:translate3d(102px, 0, 0);-moz-animation-timing-function:linear}88%{opacity:1;-moz-transform:translate3d(102px, 0, 0);-moz-animation-timing-function:linear}100%{opacity:0;-moz-transform:translate3d(102px, 0, 0);-moz-animation-timing-function:linear}}#page1.gwd-play-animation .gwd-gen-1onogwdanimation{animation:gwd-gen-1onogwdanimation_gwd-keyframes 2.5s linear 0s 1 normal forwards;-webkit-animation:gwd-gen-1onogwdanimation_gwd-keyframes 2.5s linear 0s 1 normal forwards;-moz-animation:gwd-gen-1onogwdanimation_gwd-keyframes 2.5s linear 0s 1 normal forwards}@keyframes gwd-empty-animation{0%{opacity:0.001}100%{opacity:0}}@-webkit-keyframes gwd-empty-animation{0%{opacity:0.001}100%{opacity:0}}@-moz-keyframes gwd-empty-animation{0%{opacity:0.001}100%{opacity:0}}#page1.loopStart .gwd-gen-u6m4gwdanimation{animation:gwd-gen-u6m4gwdanimation_gwd-keyframes_loopStart 7s linear 2.5s 1 normal forwards;-webkit-animation:gwd-gen-u6m4gwdanimation_gwd-keyframes_loopStart 7s linear 2.5s 1 normal forwards;-moz-animation:gwd-gen-u6m4gwdanimation_gwd-keyframes_loopStart 7s linear 2.5s 1 normal forwards}@keyframes gwd-gen-u6m4gwdanimation_gwd-keyframes_loopStart{0%{transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}7.14%{transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}95.71%{transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-u6m4gwdanimation_gwd-keyframes_loopStart{0%{-webkit-transform:translate3d(0, 0, 0);opacity:0;-webkit-animation-timing-function:linear}7.14%{-webkit-transform:translate3d(0, 0, 0);opacity:1;-webkit-animation-timing-function:linear}95.71%{-webkit-transform:translate3d(0, 0, 0);opacity:1;-webkit-animation-timing-function:linear}100%{-webkit-transform:translate3d(0, 0, 0);opacity:0;-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-u6m4gwdanimation_gwd-keyframes_loopStart{0%{-moz-transform:translate3d(0, 0, 0);opacity:0;-moz-animation-timing-function:linear}7.14%{-moz-transform:translate3d(0, 0, 0);opacity:1;-moz-animation-timing-function:linear}95.71%{-moz-transform:translate3d(0, 0, 0);opacity:1;-moz-animation-timing-function:linear}100%{-moz-transform:translate3d(0, 0, 0);opacity:0;-moz-animation-timing-function:linear}}#page1.loopStart .gwd-gen-1onogwdanimation{animation:gwd-gen-1onogwdanimation_gwd-keyframes_loopStart 2.5s linear 0s 1 normal forwards;-webkit-animation:gwd-gen-1onogwdanimation_gwd-keyframes_loopStart 2.5s linear 0s 1 normal forwards;-moz-animation:gwd-gen-1onogwdanimation_gwd-keyframes_loopStart 2.5s linear 0s 1 normal forwards}@keyframes gwd-gen-1onogwdanimation_gwd-keyframes_loopStart{0%{opacity:0;transform:translate3d(102px, 0, 0);-webkit-transform:translate3d(102px, 0, 0);-moz-transform:translate3d(102px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}20%{opacity:1;transform:translate3d(102px, 0, 0);-webkit-transform:translate3d(102px, 0, 0);-moz-transform:translate3d(102px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}88%{opacity:1;transform:translate3d(102px, 0, 0);-webkit-transform:translate3d(102px, 0, 0);-moz-transform:translate3d(102px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{opacity:0;transform:translate3d(102px, 0, 0);-webkit-transform:translate3d(102px, 0, 0);-moz-transform:translate3d(102px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-1onogwdanimation_gwd-keyframes_loopStart{0%{opacity:0;-webkit-transform:translate3d(102px, 0, 0);-webkit-animation-timing-function:linear}20%{opacity:1;-webkit-transform:translate3d(102px, 0, 0);-webkit-animation-timing-function:linear}88%{opacity:1;-webkit-transform:translate3d(102px, 0, 0);-webkit-animation-timing-function:linear}100%{opacity:0;-webkit-transform:translate3d(102px, 0, 0);-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-1onogwdanimation_gwd-keyframes_loopStart{0%{opacity:0;-moz-transform:translate3d(102px, 0, 0);-moz-animation-timing-function:linear}20%{opacity:1;-moz-transform:translate3d(102px, 0, 0);-moz-animation-timing-function:linear}88%{opacity:1;-moz-transform:translate3d(102px, 0, 0);-moz-animation-timing-function:linear}100%{opacity:0;-moz-transform:translate3d(102px, 0, 0);-moz-animation-timing-function:linear}}@keyframes gwd-gen-1c4rgwdanimation_gwd-keyframes{0%{opacity:0;transform:translate3d(400px, 0, 0);-webkit-transform:translate3d(400px, 0, 0);-moz-transform:translate3d(400px, 0, 0);animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}20%{opacity:0.996667;transform:translate3d(110px, 0, 0);-webkit-transform:translate3d(110px, 0, 0);-moz-transform:translate3d(110px, 0, 0);animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}88%{opacity:0.99;transform:translate3d(110px, 0, 0);-webkit-transform:translate3d(110px, 0, 0);-moz-transform:translate3d(110px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{opacity:0;transform:translate3d(110px, 0, 0);-webkit-transform:translate3d(110px, 0, 0);-moz-transform:translate3d(110px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-1c4rgwdanimation_gwd-keyframes{0%{opacity:0;-webkit-transform:translate3d(400px, 0, 0);-webkit-animation-timing-function:ease}20%{opacity:0.996667;-webkit-transform:translate3d(110px, 0, 0);-webkit-animation-timing-function:ease}88%{opacity:0.99;-webkit-transform:translate3d(110px, 0, 0);-webkit-animation-timing-function:linear}100%{opacity:0;-webkit-transform:translate3d(110px, 0, 0);-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-1c4rgwdanimation_gwd-keyframes{0%{opacity:0;-moz-transform:translate3d(400px, 0, 0);-moz-animation-timing-function:ease}20%{opacity:0.996667;-moz-transform:translate3d(110px, 0, 0);-moz-animation-timing-function:ease}88%{opacity:0.99;-moz-transform:translate3d(110px, 0, 0);-moz-animation-timing-function:linear}100%{opacity:0;-moz-transform:translate3d(110px, 0, 0);-moz-animation-timing-function:linear}}#page1.gwd-play-animation .gwd-gen-1c4rgwdanimation{animation:gwd-gen-1c4rgwdanimation_gwd-keyframes 2.5s linear 2.5s 1 normal forwards;-webkit-animation:gwd-gen-1c4rgwdanimation_gwd-keyframes 2.5s linear 2.5s 1 normal forwards;-moz-animation:gwd-gen-1c4rgwdanimation_gwd-keyframes 2.5s linear 2.5s 1 normal forwards}@keyframes gwd-gen-1c4rgwdanimation_gwd-keyframes_loopStart{0%{opacity:0;transform:translate3d(400px, 0, 0);-webkit-transform:translate3d(400px, 0, 0);-moz-transform:translate3d(400px, 0, 0);animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}20%{opacity:0.996667;transform:translate3d(110px, 0, 0);-webkit-transform:translate3d(110px, 0, 0);-moz-transform:translate3d(110px, 0, 0);animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}88%{opacity:0.99;transform:translate3d(110px, 0, 0);-webkit-transform:translate3d(110px, 0, 0);-moz-transform:translate3d(110px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{opacity:0;transform:translate3d(110px, 0, 0);-webkit-transform:translate3d(110px, 0, 0);-moz-transform:translate3d(110px, 0, 0);animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-1c4rgwdanimation_gwd-keyframes_loopStart{0%{opacity:0;-webkit-transform:translate3d(400px, 0, 0);-webkit-animation-timing-function:ease}20%{opacity:0.996667;-webkit-transform:translate3d(110px, 0, 0);-webkit-animation-timing-function:ease}88%{opacity:0.99;-webkit-transform:translate3d(110px, 0, 0);-webkit-animation-timing-function:linear}100%{opacity:0;-webkit-transform:translate3d(110px, 0, 0);-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-1c4rgwdanimation_gwd-keyframes_loopStart{0%{opacity:0;-moz-transform:translate3d(400px, 0, 0);-moz-animation-timing-function:ease}20%{opacity:0.996667;-moz-transform:translate3d(110px, 0, 0);-moz-animation-timing-function:ease}88%{opacity:0.99;-moz-transform:translate3d(110px, 0, 0);-moz-animation-timing-function:linear}100%{opacity:0;-moz-transform:translate3d(110px, 0, 0);-moz-animation-timing-function:linear}}#page1.loopStart .gwd-gen-1c4rgwdanimation{animation:gwd-gen-1c4rgwdanimation_gwd-keyframes_loopStart 2.5s linear 2.5s 1 normal forwards;-webkit-animation:gwd-gen-1c4rgwdanimation_gwd-keyframes_loopStart 2.5s linear 2.5s 1 normal forwards;-moz-animation:gwd-gen-1c4rgwdanimation_gwd-keyframes_loopStart 2.5s linear 2.5s 1 normal forwards}@keyframes gwd-empty-animation-loopStart{0%{opacity:0.001}100%{opacity:0}}@-webkit-keyframes gwd-empty-animation-loopStart{0%{opacity:0.001}100%{opacity:0}}@-moz-keyframes gwd-empty-animation-loopStart{0%{opacity:0.001}100%{opacity:0}}.gwd-img-11k1{position:absolute;top:-29px;left:500px;width:136px;height:79px;transform-origin:68.0649px 39.7454px 0px;-webkit-transform-origin:68.0649px 39.7454px 0px;-moz-transform-origin:68.0649px 39.7454px 0px;transform-style:preserve-3d;-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d;transform:translate3d(19.9762px, 24.3859px, 0) scale3d(.975255, .890819, 1);-webkit-transform:translate3d(19.9762px, 24.3859px, 0) scale3d(.975255, .890819, 1);-moz-transform:translate3d(19.9762px, 24.3859px, 0) scale3d(.975255, .890819, 1);opacity:0}@keyframes gwd-gen-9m1ngwdanimation_gwd-keyframes{0%{opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}26.32%{opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}84.21%{opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-9m1ngwdanimation_gwd-keyframes{0%{opacity:0;-webkit-animation-timing-function:linear}26.32%{opacity:1;-webkit-animation-timing-function:linear}84.21%{opacity:1;-webkit-animation-timing-function:linear}100%{opacity:0;-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-9m1ngwdanimation_gwd-keyframes{0%{opacity:0;-moz-animation-timing-function:linear}26.32%{opacity:1;-moz-animation-timing-function:linear}84.21%{opacity:1;-moz-animation-timing-function:linear}100%{opacity:0;-moz-animation-timing-function:linear}}#page1.gwd-play-animation .gwd-gen-9m1ngwdanimation{animation:gwd-gen-9m1ngwdanimation_gwd-keyframes 1.9s linear 5.1s 1 normal forwards;-webkit-animation:gwd-gen-9m1ngwdanimation_gwd-keyframes 1.9s linear 5.1s 1 normal forwards;-moz-animation:gwd-gen-9m1ngwdanimation_gwd-keyframes 1.9s linear 5.1s 1 normal forwards}@keyframes gwd-gen-9m1ngwdanimation_gwd-keyframes_loopStart{0%{opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}26.32%{opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}84.21%{opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-9m1ngwdanimation_gwd-keyframes_loopStart{0%{opacity:0;-webkit-animation-timing-function:linear}26.32%{opacity:1;-webkit-animation-timing-function:linear}84.21%{opacity:1;-webkit-animation-timing-function:linear}100%{opacity:0;-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-9m1ngwdanimation_gwd-keyframes_loopStart{0%{opacity:0;-moz-animation-timing-function:linear}26.32%{opacity:1;-moz-animation-timing-function:linear}84.21%{opacity:1;-moz-animation-timing-function:linear}100%{opacity:0;-moz-animation-timing-function:linear}}#page1.loopStart .gwd-gen-9m1ngwdanimation{animation:gwd-gen-9m1ngwdanimation_gwd-keyframes_loopStart 1.9s linear 5.1s 1 normal forwards;-webkit-animation:gwd-gen-9m1ngwdanimation_gwd-keyframes_loopStart 1.9s linear 5.1s 1 normal forwards;-moz-animation:gwd-gen-9m1ngwdanimation_gwd-keyframes_loopStart 1.9s linear 5.1s 1 normal forwards}.gwd-taparea-t9vz{position:absolute;left:0px;top:1px;width:728px;height:89px;transform-origin:364px 44.5px 0px;-webkit-transform-origin:364px 44.5px 0px;-moz-transform-origin:364px 44.5px 0px}.gwd-img-psut{position:absolute;top:30px;left:256px;opacity:0;height:33px;width:294px;transform-style:preserve-3d;-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d;transform:translate3d(180px, 0, 0);-webkit-transform:translate3d(180px, 0, 0);-moz-transform:translate3d(180px, 0, 0)}@keyframes gwd-gen-163vgwdanimation_gwd-keyframes{0%{transform:translate3d(180px, 0, 0);-webkit-transform:translate3d(180px, 0, 0);-moz-transform:translate3d(180px, 0, 0);opacity:0;width:294px;height:33px;animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}26.09%{transform:translate3d(-39px, 0, 0);-webkit-transform:translate3d(-39px, 0, 0);-moz-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}73.91%{transform:translate3d(-39px, 0, 0);-webkit-transform:translate3d(-39px, 0, 0);-moz-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}100%{transform:translate3d(-39px, 0, 0);-webkit-transform:translate3d(-39px, 0, 0);-moz-transform:translate3d(-39px, 0, 0);opacity:0;width:294px;height:33px;animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}}@-webkit-keyframes gwd-gen-163vgwdanimation_gwd-keyframes{0%{-webkit-transform:translate3d(180px, 0, 0);opacity:0;width:294px;height:33px;-webkit-animation-timing-function:ease}26.09%{-webkit-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;-webkit-animation-timing-function:ease}73.91%{-webkit-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;-webkit-animation-timing-function:ease}100%{-webkit-transform:translate3d(-39px, 0, 0);opacity:0;width:294px;height:33px;-webkit-animation-timing-function:ease}}@-moz-keyframes gwd-gen-163vgwdanimation_gwd-keyframes{0%{-moz-transform:translate3d(180px, 0, 0);opacity:0;width:294px;height:33px;-moz-animation-timing-function:ease}26.09%{-moz-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;-moz-animation-timing-function:ease}73.91%{-moz-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;-moz-animation-timing-function:ease}100%{-moz-transform:translate3d(-39px, 0, 0);opacity:0;width:294px;height:33px;-moz-animation-timing-function:ease}}#page1.gwd-play-animation .gwd-gen-163vgwdanimation{animation:gwd-gen-163vgwdanimation_gwd-keyframes 2.3s linear 5s 1 normal forwards;-webkit-animation:gwd-gen-163vgwdanimation_gwd-keyframes 2.3s linear 5s 1 normal forwards;-moz-animation:gwd-gen-163vgwdanimation_gwd-keyframes 2.3s linear 5s 1 normal forwards}@keyframes gwd-gen-163vgwdanimation_gwd-keyframes_loopStart{0%{transform:translate3d(180px, 0, 0);-webkit-transform:translate3d(180px, 0, 0);-moz-transform:translate3d(180px, 0, 0);opacity:0;width:294px;height:33px;animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}26.09%{transform:translate3d(-39px, 0, 0);-webkit-transform:translate3d(-39px, 0, 0);-moz-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}73.91%{transform:translate3d(-39px, 0, 0);-webkit-transform:translate3d(-39px, 0, 0);-moz-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}100%{transform:translate3d(-39px, 0, 0);-webkit-transform:translate3d(-39px, 0, 0);-moz-transform:translate3d(-39px, 0, 0);opacity:0;width:294px;height:33px;animation-timing-function:ease;-webkit-animation-timing-function:ease;-moz-animation-timing-function:ease}}@-webkit-keyframes gwd-gen-163vgwdanimation_gwd-keyframes_loopStart{0%{-webkit-transform:translate3d(180px, 0, 0);opacity:0;width:294px;height:33px;-webkit-animation-timing-function:ease}26.09%{-webkit-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;-webkit-animation-timing-function:ease}73.91%{-webkit-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;-webkit-animation-timing-function:ease}100%{-webkit-transform:translate3d(-39px, 0, 0);opacity:0;width:294px;height:33px;-webkit-animation-timing-function:ease}}@-moz-keyframes gwd-gen-163vgwdanimation_gwd-keyframes_loopStart{0%{-moz-transform:translate3d(180px, 0, 0);opacity:0;width:294px;height:33px;-moz-animation-timing-function:ease}26.09%{-moz-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;-moz-animation-timing-function:ease}73.91%{-moz-transform:translate3d(-39px, 0, 0);opacity:1;width:294px;height:33px;-moz-animation-timing-function:ease}100%{-moz-transform:translate3d(-39px, 0, 0);opacity:0;width:294px;height:33px;-moz-animation-timing-function:ease}}#page1.loopStart .gwd-gen-163vgwdanimation{animation:gwd-gen-163vgwdanimation_gwd-keyframes_loopStart 2.3s linear 5s 1 normal forwards;-webkit-animation:gwd-gen-163vgwdanimation_gwd-keyframes_loopStart 2.3s linear 5s 1 normal forwards;-moz-animation:gwd-gen-163vgwdanimation_gwd-keyframes_loopStart 2.3s linear 5s 1 normal forwards}#page1.gwd-play-animation .event-2-animation{animation:gwd-empty-animation .0001s linear 0s 1 normal forwards;-webkit-animation:gwd-empty-animation .0001s linear 0s 1 normal forwards;-moz-animation:gwd-empty-animation .0001s linear 0s 1 normal forwards}#page1.loopStart .event-2-animation{animation:gwd-empty-animation-loopStart .0001s linear 0s 1 normal forwards;-webkit-animation:gwd-empty-animation-loopStart .0001s linear 0s 1 normal forwards;-moz-animation:gwd-empty-animation-loopStart .0001s linear 0s 1 normal forwards}.gwd-img-1ylo{position:absolute;left:229px;top:3px;opacity:0;transform-style:preserve-3d;-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d;width:154px;height:69px;transform:translate3d(43px, 8px, 0);-webkit-transform:translate3d(43px, 8px, 0);-moz-transform:translate3d(43px, 8px, 0)}@keyframes gwd-gen-1jnmgwdanimation_gwd-keyframes{0%{opacity:0;transform:translate3d(43px, 8px, 0);-webkit-transform:translate3d(43px, 8px, 0);-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}20%{opacity:1;transform:translate3d(43px, 8px, 0);-webkit-transform:translate3d(43px, 8px, 0);-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}80%{opacity:1;transform:translate3d(43px, 8px, 0);-webkit-transform:translate3d(43px, 8px, 0);-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{opacity:0;transform:translate3d(43px, 8px, 0);-webkit-transform:translate3d(43px, 8px, 0);-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-1jnmgwdanimation_gwd-keyframes{0%{opacity:0;-webkit-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-webkit-animation-timing-function:linear}20%{opacity:1;-webkit-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-webkit-animation-timing-function:linear}80%{opacity:1;-webkit-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-webkit-animation-timing-function:linear}100%{opacity:0;-webkit-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-1jnmgwdanimation_gwd-keyframes{0%{opacity:0;-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-moz-animation-timing-function:linear}20%{opacity:1;-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-moz-animation-timing-function:linear}80%{opacity:1;-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-moz-animation-timing-function:linear}100%{opacity:0;-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-moz-animation-timing-function:linear}}#page1.gwd-play-animation .gwd-gen-1jnmgwdanimation{animation:gwd-gen-1jnmgwdanimation_gwd-keyframes 2.5s linear 9.5s 1 normal forwards;-webkit-animation:gwd-gen-1jnmgwdanimation_gwd-keyframes 2.5s linear 9.5s 1 normal forwards;-moz-animation:gwd-gen-1jnmgwdanimation_gwd-keyframes 2.5s linear 9.5s 1 normal forwards}@keyframes gwd-gen-1jnmgwdanimation_gwd-keyframes_loopStart{0%{opacity:0;transform:translate3d(43px, 8px, 0);-webkit-transform:translate3d(43px, 8px, 0);-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}20%{opacity:1;transform:translate3d(43px, 8px, 0);-webkit-transform:translate3d(43px, 8px, 0);-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}80%{opacity:1;transform:translate3d(43px, 8px, 0);-webkit-transform:translate3d(43px, 8px, 0);-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{opacity:0;transform:translate3d(43px, 8px, 0);-webkit-transform:translate3d(43px, 8px, 0);-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-1jnmgwdanimation_gwd-keyframes_loopStart{0%{opacity:0;-webkit-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-webkit-animation-timing-function:linear}20%{opacity:1;-webkit-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-webkit-animation-timing-function:linear}80%{opacity:1;-webkit-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-webkit-animation-timing-function:linear}100%{opacity:0;-webkit-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-1jnmgwdanimation_gwd-keyframes_loopStart{0%{opacity:0;-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-moz-animation-timing-function:linear}20%{opacity:1;-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-moz-animation-timing-function:linear}80%{opacity:1;-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-moz-animation-timing-function:linear}100%{opacity:0;-moz-transform:translate3d(43px, 8px, 0);width:154px;height:69px;-moz-animation-timing-function:linear}}#page1.loopStart .gwd-gen-1jnmgwdanimation{animation:gwd-gen-1jnmgwdanimation_gwd-keyframes_loopStart 2.5s linear 9.5s 1 normal forwards;-webkit-animation:gwd-gen-1jnmgwdanimation_gwd-keyframes_loopStart 2.5s linear 9.5s 1 normal forwards;-moz-animation:gwd-gen-1jnmgwdanimation_gwd-keyframes_loopStart 2.5s linear 9.5s 1 normal forwards}.gwd-img-h1hx{position:absolute;top:42px;left:356px;width:359px;height:33px;transform-style:preserve-3d;-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d;transform:translate3d(-171px, -13px, 0);-webkit-transform:translate3d(-171px, -13px, 0);-moz-transform:translate3d(-171px, -13px, 0);opacity:0}@keyframes gwd-gen-cyhhgwdanimation_gwd-keyframes{0%{transform:translate3d(-171px, -13px, 0);-webkit-transform:translate3d(-171px, -13px, 0);-moz-transform:translate3d(-171px, -13px, 0);opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}22.73%{transform:translate3d(-171px, -13px, 0);-webkit-transform:translate3d(-171px, -13px, 0);-moz-transform:translate3d(-171px, -13px, 0);opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}86.36%{transform:translate3d(-171px, -13px, 0);-webkit-transform:translate3d(-171px, -13px, 0);-moz-transform:translate3d(-171px, -13px, 0);opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{transform:translate3d(-171px, -13px, 0);-webkit-transform:translate3d(-171px, -13px, 0);-moz-transform:translate3d(-171px, -13px, 0);opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-cyhhgwdanimation_gwd-keyframes{0%{-webkit-transform:translate3d(-171px, -13px, 0);opacity:0;-webkit-animation-timing-function:linear}22.73%{-webkit-transform:translate3d(-171px, -13px, 0);opacity:1;-webkit-animation-timing-function:linear}86.36%{-webkit-transform:translate3d(-171px, -13px, 0);opacity:1;-webkit-animation-timing-function:linear}100%{-webkit-transform:translate3d(-171px, -13px, 0);opacity:0;-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-cyhhgwdanimation_gwd-keyframes{0%{-moz-transform:translate3d(-171px, -13px, 0);opacity:0;-moz-animation-timing-function:linear}22.73%{-moz-transform:translate3d(-171px, -13px, 0);opacity:1;-moz-animation-timing-function:linear}86.36%{-moz-transform:translate3d(-171px, -13px, 0);opacity:1;-moz-animation-timing-function:linear}100%{-moz-transform:translate3d(-171px, -13px, 0);opacity:0;-moz-animation-timing-function:linear}}#page1.gwd-play-animation .gwd-gen-cyhhgwdanimation{animation:gwd-gen-cyhhgwdanimation_gwd-keyframes 2.2s linear 7.3s 1 normal forwards;-webkit-animation:gwd-gen-cyhhgwdanimation_gwd-keyframes 2.2s linear 7.3s 1 normal forwards;-moz-animation:gwd-gen-cyhhgwdanimation_gwd-keyframes 2.2s linear 7.3s 1 normal forwards}#page1.gwd-play-animation .event-1-animation{animation:gwd-empty-animation 12s linear 0s 1 normal forwards;-webkit-animation:gwd-empty-animation 12s linear 0s 1 normal forwards;-moz-animation:gwd-empty-animation 12s linear 0s 1 normal forwards}#page1.loopStart .event-1-animation{animation:gwd-empty-animation-loopStart 12s linear 0s 1 normal forwards;-webkit-animation:gwd-empty-animation-loopStart 12s linear 0s 1 normal forwards;-moz-animation:gwd-empty-animation-loopStart 12s linear 0s 1 normal forwards}@keyframes gwd-gen-cyhhgwdanimation_gwd-keyframes_loopStart{0%{transform:translate3d(-171px, -13px, 0);-webkit-transform:translate3d(-171px, -13px, 0);-moz-transform:translate3d(-171px, -13px, 0);opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}22.73%{transform:translate3d(-171px, -13px, 0);-webkit-transform:translate3d(-171px, -13px, 0);-moz-transform:translate3d(-171px, -13px, 0);opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}86.36%{transform:translate3d(-171px, -13px, 0);-webkit-transform:translate3d(-171px, -13px, 0);-moz-transform:translate3d(-171px, -13px, 0);opacity:1;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}100%{transform:translate3d(-171px, -13px, 0);-webkit-transform:translate3d(-171px, -13px, 0);-moz-transform:translate3d(-171px, -13px, 0);opacity:0;animation-timing-function:linear;-webkit-animation-timing-function:linear;-moz-animation-timing-function:linear}}@-webkit-keyframes gwd-gen-cyhhgwdanimation_gwd-keyframes_loopStart{0%{-webkit-transform:translate3d(-171px, -13px, 0);opacity:0;-webkit-animation-timing-function:linear}22.73%{-webkit-transform:translate3d(-171px, -13px, 0);opacity:1;-webkit-animation-timing-function:linear}86.36%{-webkit-transform:translate3d(-171px, -13px, 0);opacity:1;-webkit-animation-timing-function:linear}100%{-webkit-transform:translate3d(-171px, -13px, 0);opacity:0;-webkit-animation-timing-function:linear}}@-moz-keyframes gwd-gen-cyhhgwdanimation_gwd-keyframes_loopStart{0%{-moz-transform:translate3d(-171px, -13px, 0);opacity:0;-moz-animation-timing-function:linear}22.73%{-moz-transform:translate3d(-171px, -13px, 0);opacity:1;-moz-animation-timing-function:linear}86.36%{-moz-transform:translate3d(-171px, -13px, 0);opacity:1;-moz-animation-timing-function:linear}100%{-moz-transform:translate3d(-171px, -13px, 0);opacity:0;-moz-animation-timing-function:linear}}#page1.loopStart .gwd-gen-cyhhgwdanimation{animation:gwd-gen-cyhhgwdanimation_gwd-keyframes_loopStart 2.2s linear 7.3s 1 normal forwards;-webkit-animation:gwd-gen-cyhhgwdanimation_gwd-keyframes_loopStart 2.2s linear 7.3s 1 normal forwards;-moz-animation:gwd-gen-cyhhgwdanimation_gwd-keyframes_loopStart 2.2s linear 7.3s 1 normal forwards}</style>
+    
+     
+       <link rel="stylesheet" href="css/offcanvas.css">
+         <script type="text/javascript" src="js/jquery.mousewheel-3.0.6.pack.js"></script>
+    <script type="text/javascript" src="js/jquery.fancybox.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
+      <script type="text/javascript">
+        $(function() {
+
+            $('.fancybox').fancybox({
+            padding: 10
+
+            }
+            );
+
+        });
+      </script>
+
+
+
+      <script>
+        $(function() {
+                    $("a.youtube").click(function() {
+            $.fancybox({
+                    'padding'       : 0,
+                    'autoScale'     : false,
+                    'transitionIn'  : 'none',
+                    'transitionOut' : 'none',
+                    'title'         : this.title,
+                    'width'     : 680,
+                    'height'        : 495,
+                    'href'          : this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+                    'type'          : 'swf',
+                    'swf'           : {
+                         'wmode'        : 'transparent',
+                        'allowfullscreen'   : 'true'
+                    }
+                });
+
+            return false;
+        });
+         });
+      </script>
+
+
+
+
+
+
+
+      <link rel="stylesheet" href="css/carousel.css" />
+<script type="text/javascript">var pLang = 'EN';</script><title>
+	Mountain Biking
+</title></head>
+<body class="off-canvas hide-extras">
+
+   <form name="aspnetForm" method="post" action="/mountain-biking.nspx" autocomplete="off" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBZGT5jY+LSOW4rPKfLdT07AXYeSeMszevu/VbXGDxFQrXdw==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div>
+        
+ 
+   
+            
+    <div role="complementary" id="mobile-menu">
+        <div class="contain-to-grid">  
+        <nav class="top-bar">
+          <section>
+	        <ul class="left" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li class="has-dropdown"><a href="go-to.nspx" class="lvl1">Go to</a><ul class="dropdown"><li><a class="sub-menu-title" href="cities.nspx">Cities</a></li><li><a class="sub-menu-title" href="villages.nspx">Villages</a></li><li><a class="sub-menu-title" href="lakes.nspx">Lakes</a></li><li><a class="sub-menu-title" href="mountains.nspx">Mountains</a></li><li><a class="sub-menu-title" href="national-parks.nspx">National Parks</a></li><li><a class="sub-menu-title" href="culture-historical-heritage.nspx">Culture & Historical Heritage</a></li><li><a class="sub-menu-title" href="museums-galleries.nspx">Museums & Galleries</a></li><li><a class="sub-menu-title" href="caves.nspx">Caves</a></li><li><a class="sub-menu-title" href="waterfalls.nspx">Waterfalls</a></li></ul></li><li class="has-dropdown"><a href="things-to-do.nspx" class="lvl1 activated">Things to do</a><ul class="dropdown"><li><a class="sub-menu-title" href="adventure.nspx">Adventure </a></li><li><a class="sub-menu-title" href="events.nspx">Events</a></li><li><a class="sub-menu-title" href="journeys.nspx">Journeys</a></li><li><a class="sub-menu-title" href="wineries.nspx">Wineries</a></li></ul></li><li class="has-dropdown"><a href="accommodation.nspx" class="lvl1">Accommodation</a><ul class="dropdown"><li><a class="sub-menu-title" href="hotels.nspx">Hotels</a></li><li><a class="sub-menu-title" href="private-accommodation.nspx">Private accommodation</a></li></ul></li><li class="has-dropdown"><a href="travel-guide.nspx" class="lvl1">Travel guide</a><ul class="dropdown"><li><a class="sub-menu-title" href="getting-to-macedonia.nspx">Getting to Macedonia</a></li><li><a class="sub-menu-title" href="getting-around-macedonia.nspx">Getting around Macedonia</a></li><li><a class="sub-menu-title" href="travel-agency.nspx">Travel Agency</a></li></ul></li><li class="has-dropdown"><a href="mavrovo-maximum-adventure.nspx" class="lvl1">Mavrovo Maximum Adventure</a><ul class="dropdown"><li><a class="sub-menu-title" href="homepage.nspx">За настанот</a></li><li><a class="sub-menu-title" href="agenda.nspx">Агенда</a></li><li><a class="sub-menu-title" href="pateki.nspx">Патеки</a></li><li><a class="sub-menu-title" href="fun-games.nspx">Fun Games</a></li><li><a class="sub-menu-title" href="uslovi-za-ucestvo.nspx">Услови за учество</a></li><li><a class="sub-menu-title" href="poddrzuvaci.nspx">Поддржувачи</a></li></ul></li><li class="has-dropdown"><a href="mice.nspx" class="lvl1">MICE</a><ul class="dropdown"><li><a class="sub-menu-title" href="explore-mice.nspx">Explore MICE</a></li><li><a class="sub-menu-title" href="services.nspx">Services</a></li><li><a class="sub-menu-title" href="incentive-packages.nspx">Incentive Packages</a></li><li><a class="sub-menu-title" href="conference-and-events.nspx">Conference and Events</a></li><li><a class="sub-menu-title" href="client-portfolio.nspx">Client Portfolio</a></li><li><a class="sub-menu-title" href="case-studies.nspx">Case Studies</a></li></ul></li></ul> 	
+          </section>
+        </nav>
+        </div>  
+    </div>
+    
+    <div class="main-wrap-container" role="main">
+
+        <div class="row header-top">
+            <div class="mobile-one show-for-small">
+                 <a id="sidebarButton" href="#sidebar"><img src="images/mobic.png" alt="menu mobile"></a>
+            </div>
+
+            <div class="twelve columns mobile-three">
+                <ul class="top-links ">
+
+                    <li>
+                        <a href="home.nspx">Home</a>
+                    </li>
+                    <li>
+                        <a href="about-us.nspx">About us</a>
+                    </li>
+                    <!--<li>
+                        <a href="register.nspx">Register</a>
+                    </li>-->
+                    <li>
+                        <a href="sitemap.nspx">Site map</a>
+                    </li>
+                    <li>
+                        <a href="contact.nspx">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row header hide-for-small">
+            <div class="six columns">
+                <h1 class="logo"><a href="home.nspx"><img src="images/logo.png" alt="ExploringMacedonia"></a></h1>
+            </div>
+            <div class="six columns">
+                <div class="search">
+                        <input type="text" value="search exploringmacedonia" class="input-text searching-field" id="q" name="q" data-tooltip="search exploringmacedonia" />
+                        <span class="input-submit"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row show-for-small">
+                <div class="twelve columns">
+                    <h1 class="logo-mobile"><a href="home.nspx"><img src="images/logo-mobile.png" alt="ExploringMacedonia"></a></h1>
+                </div>
+        </div>
+
+        <div class="inner-page-content-holder">
+            <div class="menu-hold hide-for-small">
+                <ul id="nav-menu" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li class="level-one"><a>Go to</a><div class="sub-menu-wrapper"><div class="sub-menu-hold"><ul><li><a href="cities.nspx" target="_self">Cities</a></li><li><a href="villages.nspx" target="_self">Villages</a></li><li><a href="lakes.nspx" target="_self">Lakes</a></li><li><a href="mountains.nspx" target="_self">Mountains</a></li><li><a href="national-parks.nspx" target="_self">National Parks</a></li><li><a href="culture-historical-heritage.nspx" target="_self">Culture & Historical Heritage</a></li><li><a href="museums-galleries.nspx" target="_self">Museums & Galleries</a></li><li><a href="caves.nspx" target="_self">Caves</a></li><li><a href="waterfalls.nspx" target="_self">Waterfalls</a></li></ul></div></div></li><li class="level-one"><a>Things to do</a><div class="sub-menu-wrapper"><div class="sub-menu-hold"><ul><li><a href="adventure.nspx" target="_self">Adventure </a></li><li><a href="events.nspx" target="_self">Events</a></li><li><a href="journeys.nspx" target="_self">Journeys</a></li><li><a href="wineries.nspx" target="_self">Wineries</a></li></ul></div></div></li><li class="level-one"><a>Accommodation</a><div class="sub-menu-wrapper"><div class="sub-menu-hold"><ul><li><a href="hotels.nspx" target="_blank">Hotels</a></li><li><a href="private-accommodation.nspx" target="_blank">Private accommodation</a></li></ul></div></div></li><li class="level-one"><a>Travel guide</a><div class="sub-menu-wrapper"><div class="sub-menu-hold"><ul><li><a href="getting-to-macedonia.nspx" target="_self">Getting to Macedonia</a></li><li><a href="getting-around-macedonia.nspx" target="_self">Getting around Macedonia</a></li><li><a href="travel-agency.nspx" target="_self">Travel Agency</a></li></ul></div></div></li><li class="level-one"><a>Mavrovo Maximum Adventure</a><div class="sub-menu-wrapper"><div class="sub-menu-hold"><ul><li><a href="homepage.nspx" target="_blank">За настанот</a></li><li><a href="agenda.nspx" target="_self">Агенда</a></li><li><a href="pateki.nspx" target="_self">Патеки</a></li><li><a href="fun-games.nspx" target="_self">Fun Games</a></li><li><a href="uslovi-za-ucestvo.nspx" target="_self">Услови за учество</a></li><li><a href="poddrzuvaci.nspx" target="_self">Поддржувачи</a></li></ul></div></div></li><li class="level-one"><a>MICE</a><div class="sub-menu-wrapper"><div class="sub-menu-hold"><ul><li><a href="explore-mice.nspx" target="_blank">Explore MICE</a></li><li><a href="services.nspx" target="_blank">Services</a></li><li><a href="incentive-packages.nspx" target="_blank">Incentive Packages</a></li><li><a href="conference-and-events.nspx" target="_blank">Conference and Events</a></li><li><a href="client-portfolio.nspx" target="_blank">Client Portfolio</a></li><li><a href="case-studies.nspx" target="_blank">Case Studies</a></li></ul></div></div></li></ul> 	 
+            </div>
+            <div class="inner-content-wrapper">
+
+
+
+        
+
+				<div class="row">
+                    <div class="twelve columns margin-bottom-10" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><h2 class="margin-bottom-10">Mountain Biking</h2><div class="breadcrumbs"><a href="home.nspx">EM</a>  /
+            <a href="things-to-do.nspx">Things to do</a>  /
+            <a href="adventure.nspx">Adventure </a>  /
+            <span>Mountain Biking</span></div></div>
+
+            <!--      <div class="four columns"></div> -->
+                </div>
+               
+
+               <div class="row">
+                   <div class="twelve columns top-image-hold with-track">
+                      ﻿<img src="content/top pic bike.JPG" alt="" width="1024" height="510" />﻿<div class="list_carousel responsive"><ul id="caroslider"><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Krusevo (1).JPG" title="Krusevo town (Photo by: Eric Beallet)"><img src="content/images/biking/small/Krusevo (1).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Krusevo (2).JPG" title="Krusevo town (Photo by: Eric Beallet)"><img src="content/images/biking/small/Krusevo (2).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Krusevo (3).JPG" title="Krusevo town (Photo by: Eric Beallet)"><img src="content/images/biking/small/Krusevo (3).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Krusevo (4).JPG" title="Krusevo town (Photo by: Eric Beallet)"><img src="content/images/biking/small/Krusevo (4).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Mavrovo and Galicnik (1).JPG" title="National Park Mavrovo (Photo by: Eric Beallet)"><img src="content/images/biking/small/Mavrovo and Galicnik (1).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Mavrovo and Galicnik (10).JPG" title="Galicnik village (Photo by: Eric Beallet)"><img src="content/images/biking/small/Mavrovo and Galicnik (10).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Mavrovo and Galicnik (2).JPG" title="Galicnik village (Photo by: Eric Beallet)"><img src="content/images/biking/small/Mavrovo and Galicnik (2).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Mavrovo and Galicnik (3).JPG" title="Galicnik village (Photo by: Eric Beallet)"><img src="content/images/biking/small/Mavrovo and Galicnik (3).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Mavrovo and Galicnik (4).JPG" title="Galicnik village (Photo by: Eric Beallet)"><img src="content/images/biking/small/Mavrovo and Galicnik (4).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Mavrovo and Galicnik (5).JPG" title="Galicnik village (Photo by: Eric Beallet)"><img src="content/images/biking/small/Mavrovo and Galicnik (5).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Mavrovo and Galicnik (6).JPG" title="National Park Mavrovo (Photo by: Eric Beallet)"><img src="content/images/biking/small/Mavrovo and Galicnik (6).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Mavrovo and Galicnik (7).JPG" title="Galicnik village (Photo by: Eric Beallet)"><img src="content/images/biking/small/Mavrovo and Galicnik (7).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Mavrovo and Galicnik (8).JPG" title="National Park Mavrovo (Photo by: Eric Beallet)"><img src="content/images/biking/small/Mavrovo and Galicnik (8).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Mavrovo and Galicnik (9).JPG" title="National Park Mavrovo (Photo by: Eric Beallet) "><img src="content/images/biking/small/Mavrovo and Galicnik (9).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Ohrid (1).JPG" title="Ohrid town (Photo by: Eric Beallet)"><img src="content/images/biking/small/Ohrid (1).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Ohrid (2).JPG" title="Ohrid town (Photo by: Eric Beallet)"><img src="content/images/biking/small/Ohrid (2).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Pelister (1).JPG" title="National Park &amp;quot;Pelister&amp;quot; (Photo by: Eric Beallet)"><img src="content/images/biking/small/Pelister (1).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Pelister (2).JPG" title="National Park &amp;quot;Pelister&amp;quot; (Photo by: Eric Beallet)"><img src="content/images/biking/small/Pelister (2).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Pelister (3).JPG" title="National Park &amp;quot;Pelister&amp;quot; (Photo by: Eric Beallet)"><img src="content/images/biking/small/Pelister (3).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Pelister (4).JPG" title="National Park &amp;quot;Pelister&amp;quot; (Photo by: Eric Beallet)"><img src="content/images/biking/small/Pelister (4).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Pelister (5).JPG" title="National Park &amp;quot;Pelister&amp;quot; (Photo by: Eric Beallet)"><img src="content/images/biking/small/Pelister (5).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Pelister (6).JPG" title="National Park &amp;quot;Pelister&amp;quot; (Photo by: Eric Beallet)"><img src="content/images/biking/small/Pelister (6).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Pelister (7).JPG" title="National Park &amp;quot;Pelister&amp;quot; (Photo by: Eric Beallet)"><img src="content/images/biking/small/Pelister (7).JPG" alt="slika" /></a></li><li><a rel="gallery-group" class="fancybox" href="content/images/biking/large/Pelister (8).JPG" title="National Park &amp;quot;Pelister&amp;quot; (Photo by: Eric Beallet)"><img src="content/images/biking/small/Pelister (8).JPG" alt="slika" /></a></li></ul><a class="prev" id="foo2_prev" href="#"><span>prev</span></a><a class="next" id="foo2_next" href="#"><span>next</span></a></div>
+                   </div>
+               </div>
+
+               <div class="row">
+                    <!--index_start-->
+                   <div class="eight columns content-inner">
+                       ﻿<h2>Mountain Biking - The real feel</h2>
+<p>Mountain biking is a great sport to practice in Macedonia, with more than thousands of off-road and dirt tracks. Each mountain club rents out bicycles and organizes regional mountain-bike tour and smaller local tours. As a clubs they also promote developing biking trails in Macedonia as well as local sustainable tourism to historical and natural sites of interest.</p>
+<p>Exploring Macedonia was the host of a French group of bikers that enjoyed the mountains of Macedonia for several days. This is the story.</p>
+<h3>French mountain bikers in Macedonia</h3>
+<p>From 18th to 25th September, French reporters (Nathalie Cuche - reporter, Eric Beallet - photograher, Bruno Laval - bike tester and Olivier Durbec - doctor) paid Macedonia a visit in order to explore and test all mountain bike routes. They are freelance reporters whose specialty is extreme sports.</p>
+<p>Their route was: Mavrovo&ndash; Galichnik &ndash; Vodno - Markov Manastir &ndash; Matka -Solunska Glava - Skopje &ndash; Krushevo - Pelister.&nbsp; They made a contact with ExploringMacedonia.com after the portal launched the web presentation by Yahoo! adventurer and researcher Richard Bangs in July last year. ExploringMacedonia.com organized all the details of their trip to make their journey unforgettably adventurous. They left Macedonia impressed not only by the mountain bike routes they found here but also of the culture and tradition, and the Macedonians themselves.&nbsp; They say Macedonia is one hidden treasure in Europe; a country with such an incredible charm just because of its little imperfections.</p>
+<p>They have been working almost 6 years in the special magazine for mountain biking &ldquo;Velo Tout Terrain&rdquo; and their main job is to discover new amazing terrains in the world. And here is their story of how they heard about our country Macedonia:</p>
+<p>&ldquo;When we were climbing the highest peak of the highest mountain in Iran, at a height of 5.600m our expedition encountered a guy from Macedonia. The situation wouldn&rsquo;t have been so ordinary if he didn&rsquo;t have a bottle of Macedonian beer in his one hand - &ldquo;Skopsko&rdquo;-, and a Macedonian flag in the other. When we saw him with the beer in his hand we were very surprised how he managed to carry this bottle during the entire climbing which was very hard, plus, it is forbidden to have alcohol with you in Iran!!! We kept that picture in our mind the entire time and couldn&rsquo;t wait to come and see this country where people could be as adventurous as that guy with the beer on 5.600m above sea level &ldquo;.</p>
+<p>They have already discovered all possible routes in France and decided to explore out of the borders. They wanted to see everything the world has to offer. These reporters were mountain bikers in Africa, Morocco, Georgia, Chile, Russia, Germany, Argentina and Siberia. Before doing mountain biking, they travelled the world with motor bikes.</p>
+<p>Their views on Macedonian routes are very positive. They say: &ldquo;Macedonian mountain bike routes are very good. Bearing in mind that 50% of your country is mountainous, you can consider it perfect for this sport. The routes in Mavrovo are very good and those from Vodno to Matka are perfect! The real excitement in mountain biking is the fact that there are ups and downs from the starting till the ending point, and the very narrow paths so that only one biker can ride through it. And when you add all the curves, then you have real fun. We also rode up the peak Solunska Glava and that was a real experience as well. In France we have a saying: If your jaw hurts from too much pressure while riding, then the route is good. And to tell you the truth our jaws hurt in Macedonian mountain bike routes&ldquo;.</p>
+<p>Our guests were very impressed by Macedonian people and Macedonian food. They say: &ldquo;If I want to spend my holiday on my mountain bike and I don&rsquo;t want to go to any European country where everything is in order and commercialized, I can come to Macedonia. You can still meet ordinary people making their own cheese in the mountain villages! Macedonia is too exciting to explore in only 10 days. We know that there is a very exciting kayak route in Matka but we will leave that to explore next time we come&ldquo;.</p>
+<p>Story by: Tea Moderna</p>
+                   </div>
+                   <!--index_end-->
+                   <div class="four columns sidebar ">
+
+	             	 ﻿<div class="sidebar-box-red" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><h3>Accommodation</h3>
+<p><img height="143" width="270" src="content/accommodation slika za desen tab.jpg" /></p>
+<ul>
+<li><strong><a target="_blank" href="http://hotels.exploringmacedonia.com/hoteldetail.aspx?id=264103AD-49E7-DF11-B4BA-00155D69A514&amp;odden=16&amp;odmesec=3&amp;odgodina=2013&amp;doden=17&amp;domesec=3&amp;dogodina=2013">Hotel "Queen's"&nbsp;</a></strong></li>
+<li><strong><a target="_blank" href="http://hotels.exploringmacedonia.com/hoteldetail.aspx?id=E8D9384C-1A86-DB11-9910-0003FFC32100&amp;odden=16&amp;odmesec=3&amp;odgodina=2013&amp;doden=17&amp;domesec=3&amp;dogodina=2013">Hotel "Inex Gorica"</a></strong></li>
+<li><strong><a target="_blank" href="http://hotels.exploringmacedonia.com/hoteldetail.aspx?id=C01D3E46-1A86-DB11-9910-0003FFC32100&amp;odden=16&amp;odmesec=3&amp;odgodina=2013&amp;doden=17&amp;domesec=3&amp;dogodina=2013">Hotel "Rose Diplomatique"</a></strong></li>
+<li><strong><a target="_blank" href="http://hotels.exploringmacedonia.com/hoteldetail.aspx?id=2D305742-023D-E111-B4D6-00155D69A518&amp;odden=16&amp;odmesec=3&amp;odgodina=2013&amp;doden=17&amp;domesec=3&amp;dogodina=2013">Resort &amp; Spa "Aurora"</a></strong></li>
+<li><strong><a target="_blank" href="http://www.hotel-sirius.com.mk/">Hotel "Sirius"</a></strong></li>
+<li><strong><a target="_blank" href="http://hotels.exploringmacedonia.com/hoteldetail.aspx?id=030B7BF2-39B1-DB11-8503-0003FFC32100&amp;odden=16&amp;odmesec=3&amp;odgodina=2013&amp;doden=17&amp;domesec=3&amp;dogodina=2013">Hotel "Pelister"</a></strong></li>
+<li><strong><a target="_blank" href="http://hotels.exploringmacedonia.com/hoteldetail.aspx?id=54DA384C-1A86-DB11-9910-0003FFC32100&amp;odden=16&amp;odmesec=3&amp;odgodina=2013&amp;doden=17&amp;domesec=3&amp;dogodina=2013">Hotel "Romantique"</a></strong></li>
+</ul>
+<ul>
+</ul></div>
+	         
+                   </div>
+               </div>
+
+
+
+
+
+        </div>
+        </div>
+
+        <div class="footer hide-for-small">
+            <div class="back-top-wrappwer">
+                <a href="#top" class="scroll-to-top">back to to top</a>
+            </div>
+            <div class="sitemap-wrapper">
+                <div class="sitemap-hold" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><div class="sitemap-box"><h5><a href="go-to.nspx">Go to</a></h5><ul class="sitemap-list"><li><a href="cities.nspx">Cities</a></li><li><a href="villages.nspx">Villages</a></li><li><a href="lakes.nspx">Lakes</a></li><li><a href="mountains.nspx">Mountains</a></li><li><a href="national-parks.nspx">National Parks</a></li><li><a href="culture-historical-heritage.nspx">Culture & Historical Heritage</a></li><li><a href="museums-galleries.nspx">Museums & Galleries</a></li><li><a href="caves.nspx">Caves</a></li><li><a href="waterfalls.nspx">Waterfalls</a></li></ul></div><div class="sitemap-box"><h5><a href="things-to-do.nspx">Things to do</a></h5><ul class="sitemap-list"><li><a href="adventure.nspx">Adventure </a></li><li><a href="events.nspx">Events</a></li><li><a href="journeys.nspx">Journeys</a></li><li><a href="wineries.nspx">Wineries</a></li></ul></div><div class="sitemap-box"><h5><a href="accommodation.nspx">Accommodation</a></h5><ul class="sitemap-list"><li><a href="hotels.nspx">Hotels</a></li><li><a href="private-accommodation.nspx">Private accommodation</a></li></ul></div><div class="sitemap-box"><h5><a href="travel-guide.nspx">Travel guide</a></h5><ul class="sitemap-list"><li><a href="getting-to-macedonia.nspx">Getting to Macedonia</a></li><li><a href="getting-around-macedonia.nspx">Getting around Macedonia</a></li><li><a href="travel-agency.nspx">Travel Agency</a></li></ul></div><div class="sitemap-box"><h5><a href="mavrovo-maximum-adventure.nspx">Mavrovo Maximum Adventure</a></h5><ul class="sitemap-list"><li><a href="homepage.nspx">За настанот</a></li><li><a href="agenda.nspx">Агенда</a></li><li><a href="pateki.nspx">Патеки</a></li><li><a href="fun-games.nspx">Fun Games</a></li><li><a href="uslovi-za-ucestvo.nspx">Услови за учество</a></li><li><a href="poddrzuvaci.nspx">Поддржувачи</a></li></ul></div><div class="sitemap-box last"><h5><a href="mice.nspx">MICE</a></h5><ul class="sitemap-list"><li><a href="explore-mice.nspx">Explore MICE</a></li><li><a href="services.nspx">Services</a></li><li><a href="incentive-packages.nspx">Incentive Packages</a></li><li><a href="conference-and-events.nspx">Conference and Events</a></li><li><a href="client-portfolio.nspx">Client Portfolio</a></li><li><a href="case-studies.nspx">Case Studies</a></li></ul></div></div> 	                     
+            </div>
+            <div class="copy-n-wrapper">
+                <div class="copy-n">
+                    <p>
+                        Copyright © 2013 ExploringMacedonia.com All rights reserved
+                        <br/>
+                        <span class="white-text">address:</span>
+                        Partizanski Odredi 62, 1000 Skopje, Makedonija
+                        <br/>
+                        <span class="white-text">phone:</span>
+                        +389 (0)2 3080-111| 
+                        <span class="white-text">fax:</span>
+                        +389 (0)2 3075-333
+                        <br/>
+                        <span class="white-text">e-mail:</span>
+                        <a href="mailto:contact@exploringmacedonia.com">contact@exploringmacedonia.com</a>
+                        <br/>
+                        <span class="white-text">skype:</span> exploring.macedonia
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="mobile-footer show-for-small">
+            <div class="row">
+                <div class="twelve columns">
+                    <a href="javascript:history.go(-1)" class="mini-nav-mob-back">Back</a>
+                    <a href="#top" class="mini-nav-mob-top">Scroll to top</a>
+                </div>
+            </div>
+        </div>
+</div>
+
+
+  <script src="js/jquery.foundation.mediaQueryToggle.js"></script>
+  <script src="js/jquery.foundation.forms.js"></script>
+  <script src="js/jquery.event.move.js"></script>
+  <script src="js/jquery.event.swipe.js"></script>
+  <script src="js/jquery.foundation.reveal.js"></script>
+  <script src="js/jquery.foundation.orbit.js"></script>
+  <script src="js/jquery.foundation.navigation.js"></script>
+  <script src="js/jquery.foundation.buttons.js"></script>
+  <script src="js/jquery.foundation.tabs.js"></script>
+  <script src="js/jquery.foundation.tooltips.js"></script>
+  <script src="js/jquery.foundation.accordion.js"></script>
+  <script src="js/jquery.placeholder.js"></script>
+  <script src="js/jquery.foundation.alerts.js"></script>
+  <script src="js/jquery.foundation.topbar.js"></script>
+  <script src="js/jquery.foundation.joyride.js"></script>
+  <script src="js/jquery.foundation.clearing.js"></script>
+  <script src="js/jquery.foundation.magellan.js"></script>
+   
+    <script src="js/app.js"></script>
+
+  
+    <script>
+    $(window).load(function(){
+      $("#featured").orbit({
+        animation:'fade'
+      });
+    });
+    </script> 
+
+    <script type="text/javascript" src="js/jquery.hoverIntent.js">
+        </script>
+         <script type="text/javascript">
+            $(document).ready(function(){
+            
+                $('#nav-menu li').hoverIntent(
+            function () {
+                //show its submenu
+                $('.sub-menu-wrapper', this).slideDown(100);
+            }, 
+            function () {
+                //hide its submenu
+                $('.sub-menu-wrapper', this).slideUp(100);      
+            });
+
+            });
+
+            $('#q').bind(($.browser.opera ? 'keypress' : 'keydown'), function (e) {
+                if (e.keyCode == 13) return postSearch();
+            });
+
+            $(".input-submit").click(function () {
+                location.href = "searchresults.nspx?q=" + $('#q').val();
+            });
+
+            var postSearch = function () {
+                location.href = "searchresults.nspx?q=" + $('#q').val();
+                return false;
+            }
+
+            $('#q').focus(function () {
+                $(this).val('');
+            });
+
+            $('#q').blur(function () {
+                if ($(this).val() == '') {
+                    $(this).val($(this).attr('data-tooltip'));
+                }
+            });
+        </script>
+         <script src="js/jquery.offcanvas.js"></script>
+
+        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> 
+	    </script> 
+	    <script type="text/javascript">
+	        _uacct = "UA-499303-1";
+	        urchinTracker();
+	    </script> 
+
+
+        <script type="text/javascript" language="javascript" src="js/carousel.js"></script>
+
+        <!-- optionally include helper plugins -->
+        <script type="text/javascript" language="javascript" src="js/jquery.mousewheel.min.js"></script>
+        <script type="text/javascript" language="javascript" src="js/jquery.touchSwipe.min.js"></script>
+        <script type="text/javascript" language="javascript" src="js/jquery.ba-throttle-debounce.min.js"></script>
+
+        <!-- fire plugin onDocumentReady -->
+        <script type="text/javascript" language="javascript">
+            $(function() {
+
+                //  Responsive layout, resizing the items
+                $('#caroslider').carouFredSel({
+                    responsive: true,
+                    width: '100%',
+                    items: {
+                        visible: {
+                            min: 1,
+                            max: 5
+                        }
+                    },
+                    auto: {
+          timeoutDuration: 5000
+          },
+                    mousewheel: true,
+                    swipe: {
+                        onMouse: true,
+                        onTouch: true
+                    },
+                    circular: true,
+                    infinite: true,
+                    prev    : {
+                        button  : "#foo2_prev",
+                        key     : "left"
+                    },
+                    next    : {
+                        button  : "#foo2_next",
+                        key     : "right"
+                    }
+
+                });
+            });
+        </script>
+
+
+                </form>
+</body>
+</html>
