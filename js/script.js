@@ -14,8 +14,6 @@ function moreOrLess() {
     }
   }
 
-  
-
   function moreOrLess1() {
     var dots = document.getElementById("dots1");
     var moreText = document.getElementById("more1");
@@ -160,4 +158,4 @@ function moreOrLess() {
     }
   }
 
-  document.getElementById("form-email").required = true;
+  
