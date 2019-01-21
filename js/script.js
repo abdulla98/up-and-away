@@ -159,3 +159,5 @@ function moreOrLess() {
       moreText.style.display = "inline";
     }
   }
+
+  document.getElementById("form-email").required = true;
